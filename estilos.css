@@ -5,11 +5,12 @@
 
 .cabecalho{
     padding: 15px 25px;
+    display: flex;
 }
 
 .cartao{
-    width: 100px ;
-    height: 100px;
+    width: 700px ;
+    height: 700px;
 }
 
 .cartao-frente, .cartao-verso {
