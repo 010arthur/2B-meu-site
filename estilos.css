@@ -30,8 +30,13 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: #6d80ec;
 }
 
 main {
     flex: 1;
+}
+
+.cabecalho-link {
+    color: #0725ad
 }
