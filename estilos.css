@@ -19,6 +19,7 @@
 .cartao-frente, .cartao-verso{
     width: 260px;
     height: 200px;
+    position: absolute;
 }
 
 .cartao-imagem{
@@ -51,4 +52,8 @@ footer {
     background-color: #0725ad;
     padding: 20px 25px;
     color: #e3e4e9;
+}
+
+.carta0-interno {
+    position: relative;
 }
