@@ -43,10 +43,12 @@ main {
 }
 
 h1 {
-    color:#e3e4e9
+    color:#e3e4e9;
+    font-family: 27px;
 }
  
 footer {
     background-color: #0725ad;
     padding: 20px 25px;
+    color: #e3e4e9;
 }
